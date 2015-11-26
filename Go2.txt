@@ -1,1 +1,1 @@
-Dit is een commit in de master
+Dit is een opgeloste commit 
